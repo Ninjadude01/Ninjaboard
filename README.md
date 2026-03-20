@@ -4,12 +4,17 @@ My project is a custom PCB controller board! How it works is that a random LED w
 
 
 Here is a 3d render of what it looks like:
+
 ![pic1](Pictures_of_Project/Screenshot%202026-03-20%20172739.png)
+
+
 
 
 Here is the schematic diagram:
 
 ![pic2](Pictures_of_Project/Screenshot%202026-03-20%20174038.png)
+
+
 
 
 Here is the PCB design:
