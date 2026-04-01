@@ -3,7 +3,13 @@
 My project is a custom PCB controller board! How it works is that a random LED will light up, and you have to press the corresponding keyboard switch in less than one second. This will continue untill you lose, and once you do, the LED's do a fun game over sequence. I decided to make this project because I have never make a PCB controller before, and I always love trying new things. Another reason I chose this project is because I am interested in hardware, however I haven't done much of that up until I head about Stasis, so I am really glad to have gotten an oppertunity to do things that I enjoy. 
 
 
-Here is a 3d render of what it looks like:
+Here is what it looks like:
+
+
+![pic4](Pictures_of_Project/Screenshot%202026-04-01%20182941.png)
+
+![pic5](Pictures_of_Project/Screenshot%202026-04-01%20182955.png)
+
 
 ![pic1](Pictures_of_Project/Screenshot%202026-03-20%20172739.png)
 
